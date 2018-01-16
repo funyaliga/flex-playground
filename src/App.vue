@@ -88,7 +88,7 @@ body{
     display: grid;
     padding: 10px;
     height: 100vh;
-    grid-template-columns: 600px auto;
+    grid-template-columns: 50% auto;
     grid-template-rows: 260px auto;
     grid-template-areas: "view ctr"
                         "intro ctr"
